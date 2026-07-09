@@ -1,0 +1,797 @@
+{
+  "technology-ai-solution": {
+    "type": "technology",
+    "slug": "technology-ai-solution",
+    "metadata": {
+      "title": "AI Solution Services | AI Development Company",
+      "description": "We provide AI Solution Services to develop highly scalable and secure web, mobile, and cross-platform applications. Let's discuss your project ideas."
+    },
+    "header": {
+      "title": "AI Chatbot Solutions",
+      "breadcrumb": "AI Chatbot",
+      "poster": "ai-chatbot-video-thumbnail.webp",
+      "video": "Blue and Purple Modern Artificial Intelligence Video.mp4"
+    },
+    "about": {
+      "heading": "What is AI Chatbot?",
+      "image": "AI-Chatbot-technologies.svg",
+      "imageAlt": "Two persons working on a laptop describing AI technologies",
+      "summary": "An AI Chatbot is an intelligent conversational system designed to simulate human-like interactions and assist users in real time. Built using natural language processing (NLP) and machine learning techniques, it understands user queries, processes intent, and delivers relevant responses through a chat-based interface.",
+      "details": "The chatbot architecture typically involves a backend logic layer for processing requests and a conversational interface for seamless user interaction. It can be integrated across multiple platforms such as mobile apps, websites, and messaging services, ensuring consistent and efficient communication. Highly adaptable and scalable, AI chatbots are widely used for automating customer support, handling repetitive tasks, and enhancing user engagement. They continuously improve over time by learning from interactions, making them ideal for businesses looking to deliver fast, personalized, and efficient experiences.",
+      "ctaText": "At Harshal IT Soft, our experts build smart and efficient AI chatbots tailored to your needs. Get in touch to learn more."
+    },
+    "proCons": {
+      "prosHeading": "Why Choose Our AI Chatbots",
+      "consHeading": "Chatbot Use Cases for SMEs",
+      "prosIntro": "Here are some of the major advantages Angular offers:",
+      "consIntro": "Specialized agents built for specific bussineess outcomes.",
+      "pros": [
+        {
+          "title": "Reusability of Components",
+          "content": "Unlike its predecessor using the model view architecture, Angular features a component-based structure. This means that Angular provides better reusability of components during the entire lifecycle of app development. Not just that, the strict components hierarchy makes every UI element a component in itself on every other screen."
+        },
+        {
+          "title": "The Long-term support (LTS)",
+          "content": "Google has the framework’s backing. In other words, Google is responsible for the development of this platform’s ecosystem further and for strengthening its place among the competition. This is why Angular is such a dependable framework among developers."
+        },
+        {
+          "title": "Extensive Tools Available",
+          "content": "There are many plug-ins, packages as well as development tools available for Angular. This makes this framework robust and highly capable. Moreover, these extra tools help developers during the development phase in case they find themselves stuck. These add-ons further simplify the development process to make the process hassle-free."
+        },
+        {
+          "title": "Natural Language Understanding",
+          "content": "Modern chatbots leverage advanced Natural Language Processing (NLP) engines to accurately interpret user intent, context, and sentiment. This allows them to go beyond simple keyword matching and instead understand conversational nuances, making interactions feel more human-like. By processing language in a contextual manner, chatbots can provide more relevant, precise, and personalized responses, improving overall user satisfaction and engagement."
+        },
+        {
+          "title": "Multi-channel Integration",
+          "content": "A powerful chatbot can seamlessly integrate across multiple communication platforms, including websites, WhatsApp, Slack, and mobile applications. This ensures that businesses can engage with users wherever they are most active, providing a consistent and unified experience across channels. Multi-channel support also allows businesses to centralize conversations, track interactions efficiently, and maintain continuity in customer engagement."
+        },
+        {
+          "title": "24/7 Automated Support",
+          "content": "Chatbots enable round-the-clock customer support, ensuring that user queries are addressed instantly at any time of the day. This reduces dependency on human agents for routine inquiries and significantly cuts down response times. With continuous availability, businesses can improve customer satisfaction, handle high volumes of queries efficiently, and ensure no opportunity or customer request is missed."
+        },
+        {
+          "title": "Seamless Human Handoff",
+          "content": "While chatbots handle most routine queries, complex or sensitive issues often require human intervention. A well-designed chatbot ensures a smooth transition from automated responses to human agents by transferring the entire conversation context. This eliminates the need for users to repeat information and allows human agents to resolve issues faster and more effectively, enhancing the overall support experience."
+        }
+      ],
+      "cons": [
+        {
+          "title": "Handling complex user queries with advanced NLP",
+          "content": "Automatically qualify prospects using intelligent conversational logic and predefined criteria. Capture key details, assess intent, and route high-quality leads directly to your sales team. This reduces manual effort and improves conversion rates."
+        },
+        {
+          "title": "Appointment Scheduling",
+          "content": "Integrate with tools like Google Calendar or Calendly to automate meeting bookings. Let users check availability, schedule, and receive confirmations instantly. Eliminates back-and-forth communication and saves time."
+        },
+        {
+          "title": "Dynamic FAQ",
+          "content": "Provide instant, conversational answers using your existing knowledge base. Chatbots understand user queries and respond with accurate, contextual information. This improves support efficiency and enhances user experience."
+        },
+        {
+          "title": "Order Tracking",
+          "content": "Enable real-time tracking updates by integrating with your logistics systems. Customers can check order status, delivery timelines, and shipment details. Reduces support queries and keeps customers informed at all times."
+        }
+      ]
+    }
+  },
+  "technology-angular-js": {
+    "type": "technology",
+    "slug": "technology-angular-js",
+    "metadata": {
+      "title": "Angular Js Development Services | Web App Development Company",
+      "description": "We provide Angular Js Development Services to develop highly scalable and secure web, mobile, and cross-platform applications. Let's discuss your project ideas."
+    },
+    "header": {
+      "title": "Angular Js Development Services",
+      "breadcrumb": "Angular Js",
+      "poster": "angular-js-tech-video-thumbnail.webp",
+      "video": "angular-js-tech-video-background.mp4"
+    },
+    "about": {
+      "heading": "What is Angular Js?",
+      "image": "angular-js-services.webp",
+      "imageAlt": "Two persons working on a laptop describing angular JS technology",
+      "summary": "Utilizing a service/controller-based architecture, Angular is a very popular web application framework created in Google’s TypeScript which is a superset of JavaScript. The applications developed using Angular use a controller for data flow management and further passes data to the view.",
+      "details": "The framework is highly flexible and is used extensively by developers. It offers developers components for coding and rewriting those code while being easy to maintain. Best suited for large and complex applications, the framework allows the development of scalable as well as modular solutions.",
+      "ctaText": "At Harshal IT Soft, we have experts who understand ins and outs of Angular to offer customers the best solutions. Get in touch with us to know more about this framework."
+    },
+    "proCons": {
+      "prosHeading": "Pros:",
+      "consHeading": "Cons:",
+      "prosIntro": "Here are some of the major advantages Angular offers:",
+      "consIntro": "There are a few limitations of Angular you might like to learn about.",
+      "pros": [
+        {
+          "title": "Reusability of Components",
+          "content": "Unlike its predecessor using the model view architecture, Angular features a component-based structure. This means that Angular provides better reusability of components during the entire lifecycle of app development. Not just that, the strict components hierarchy makes every UI element a component in itself on every other screen."
+        },
+        {
+          "title": "The Long-term support (LTS)",
+          "content": "Google has the framework’s backing. In other words, Google is responsible for the development of this platform’s ecosystem further and for strengthening its place among the competition. This is why Angular is such a dependable framework among developers."
+        },
+        {
+          "title": "Extensive Tools Available",
+          "content": "There are many plug-ins, packages as well as development tools available for Angular. This makes this framework robust and highly capable. Moreover, these extra tools help developers during the development phase in case they find themselves stuck. These add-ons further simplify the development process to make the process hassle-free."
+        }
+      ],
+      "cons": [
+        {
+          "title": "Steep Learning Graph",
+          "content": "Requires developers to understand and learn a vast array of topics including various modules, components, dependency injection, services, and more. Also, those experienced working with JS will find it a little difficult to learn this framework."
+        },
+        {
+          "title": "Limited SEO Functionality",
+          "content": "Angular is a single-page application (SPA). Therefore, the framework offers very limited SEO functionality. Although developers can prerender this framework with the help of Angular Universal, it does imply more effort."
+        },
+        {
+          "title": "Not Suitable for Small Apps",
+          "content": "Within Angular, components management is way too complicated. For example, you might need more than five files for a single component. Along with that, you must inject dependencies, as well as declare the lifecycle interfaces for the component. All this makes Angular verbose. Therefore, the framework isn’t best for small apps. Rather it is preferred for complex systems."
+        }
+      ]
+    }
+  },
+  "technology-asp-dot-net": {
+    "type": "technology",
+    "slug": "technology-asp-dot-net",
+    "metadata": {
+      "title": "ASP Dot Net Development Services | Application Development Company",
+      "description": "Harshal IT Soft is a well-known ASP.Net Development company with over 10+ years of experience in custom ASP.Net development services."
+    },
+    "header": {
+      "title": "ASP.NET Development Services",
+      "breadcrumb": "ASP.NET",
+      "poster": "asp-dot-net-tech-video-thumbnail.webp",
+      "video": "asp-dot-net-tech-video-background.mp4"
+    },
+    "about": {
+      "heading": "What is ASP.NET?",
+      "image": "asp-dot-net-image.webp",
+      "imageAlt": "A person working on a laptop describing ASP dot net technology",
+      "summary": "ASP (Active Server Pages) developed by Microsoft aims at offering developers a simple and interactive web application development tool. Using the technology, it is possible to create rich as well as dynamic websites.",
+      "details": "What’s fascinating is that the framework can utilize client-side as well as server-side scripts. By setting different conditions using ASP programs, developers can manage various pages and content related to those pages.",
+      "ctaText": "At Harshal IT Soft, we help clients build scalable and user-friendly solutions with ASP.NET. For more information, contact our team right away."
+    },
+    "proCons": {
+      "prosHeading": "Pros:",
+      "consHeading": "Cons:",
+      "prosIntro": "ASP.net is one of the most common web development frameworks. Thanks to its many perks that make it such flexible technology.",
+      "consIntro": "Understanding the drawbacks concerning ASP.net would help utilize maximum potential from the framework.",
+      "pros": [],
+      "cons": [
+        {
+          "title": "Lack of Extensive Documentation",
+          "content": "This is where the ASP community lags behind its competition. Developers often find the documentation limiting, especially when building MVC applications."
+        },
+        {
+          "title": "Unit Testing is Almost Impossible",
+          "content": "ASP.net features code behind along with tightly coupled architecture. These features when coupled with different event handlers make it close to impossible for developers to perform unit testing."
+        },
+        {
+          "title": "Code Reusability Issues",
+          "content": "Because of the Code behind the logic feature of the ASP.net, code reusability becomes too complex. Using the same code for multiple UI creates unnecessary conflicts while making parallel development impossible in many cases. This is mostly due to the applications being tightly coupled."
+        }
+      ]
+    }
+  },
+  "technology-asp-dot-net-core": {
+    "type": "technology",
+    "slug": "technology-asp-dot-net-core",
+    "metadata": {
+      "title": "Asp Dot Net Core Development Services Company USA",
+      "description": "Harshal IT Soft is a top-rated ASP.Net Core Development Company that provides worldwide organizations and SMBs with web application development services."
+    },
+    "header": {
+      "title": "ASP.NET Core Development Services",
+      "breadcrumb": "ASP.NET Core",
+      "poster": "",
+      "video": "ASP-dot-net-core-tech-video-background-new.mp4"
+    },
+    "about": {
+      "heading": "What is ASP.NET Core?",
+      "image": "asp-dot-net-core.webp",
+      "imageAlt": "A person working on a PC by sitting on a chair describing ASP dot net core technology",
+      "summary": "When referring to ASP.NET Core, consider it the cross-platform version of what we call ASP.NET. This framework is open source and usually chosen over the typical ASP.net technology for developing most of the new applications.",
+      "details": "Simply put, the core version of ASP.net comes with an optimized app development platform deployed either to the cloud or private servers. Providing a modular component design and decreasing the overall overhead, the framework allows users to enjoy high flexibility when creating solutions. But it is still far from perfect. Hence, consult experts who know how to make the most from ASP.net core.",
+      "ctaText": "We at Harshal IT Soft, help customers realise the best solutions leveraging the benefits of this technology. Just give us a call to know, HOW!"
+    },
+    "proCons": {
+      "prosHeading": "Pros:",
+      "consHeading": "Cons:",
+      "prosIntro": "Here are the advantages you cannot miss when working with ASP.net Core.",
+      "consIntro": "While the framework is one of the best, it does have a few glitches needing attention.",
+      "pros": [
+        {
+          "title": "Cross-Platform Compatibility",
+          "content": "Gone are the old days when the ASP.net technology was only limited to the Windows platform. With ASP.net core, the flexibility to use the framework across different operating systems has grown manifold. The technology is compatible with macOS and Linux along with Windows."
+        },
+        {
+          "title": "Easy Maintenance",
+          "content": "Managing applications on ASP.net core is very simple. Developers can detect almost all the defects in the early stage using a variety of development tools. In addition, it becomes convenient to manage a project’s code base with the support that Visual Studio Intellisense offers. Therefore, the development task simplifies further allowing freshers and developers a smooth start."
+        },
+        {
+          "title": "Hassle-Free Web API Integration",
+          "content": "The framework offers the simplest way for designing API connections between the front-end and external systems. It also helps in updating the related API documentation accordingly. Being a part of the development platform, the Web API is simple to integrate using Swagger. What’s interesting is that the documentation generates automatically with Swagger."
+        }
+      ],
+      "cons": [
+        {
+          "title": "Applications Still Not on ASP.Net Core",
+          "content": "Although the first core version came out in 2016, there are many web solutions that still are utilizing the older .NET framework. This restricts users from utilizing the features and perks associated with the core version. On a positive note, a few years might change that legacy problem. And hopefully, existing products coded using .NET move to the latest core framework by then."
+        },
+        {
+          "title": "Vast Difference from the Older Version",
+          "content": "While it is a big achievement, a huge leap forward to developing ASP.net core brings more challenges for learning the new framework. Hence, resulting in a steep learning curve requiring huge time and effort from developers to become familiar with newer concepts."
+        },
+        {
+          "title": "Limited Functionality with Cross-Platform",
+          "content": "Undoubtedly, ASP.net Core has the support for the cross-platform operation. However, there are still a few tools that do not work very well on other operating systems than Windows itself. On the brighter side, the application is evolving to become as competitive as it is on Windows for other operating systems as well."
+        }
+      ]
+    }
+  },
+  "technology-c-sharp": {
+    "type": "technology",
+    "slug": "technology-c-sharp",
+    "metadata": {
+      "title": "C Sharp Development Services | C# Development Company USA",
+      "description": "Harshal IT Soft is a software company providing cost-effective C sharp development services from experienced programmers across the USA. Talk with our expert!"
+    },
+    "header": {
+      "title": "C# Development Services",
+      "breadcrumb": "C#",
+      "poster": "c-sharp-tech-video-thumbnail-new.webp",
+      "video": "c-sharp-tech-video-background-new.mp4"
+    },
+    "about": {
+      "heading": "What is C#?",
+      "image": "c-sharp-image.webp",
+      "imageAlt": "A desktop monitor and a mobile device showing icons to describe c sharp technology",
+      "summary": "C# is an object-oriented programming language that was released in 2000 by Microsoft. Even after these many years, C# still is one of the most used technology for creating a vast number of applications.",
+      "details": "C# applications use the .NET framework including the .Net runtime, pre-defined libraries and more. The programming language is created for Common Language Infrastructure (CLI). This interface includes executable code along with the runtime environment.",
+      "ctaText": "If you have any queries about the technology or how it can become a great aid for your application development needs, contact Harshal IT Soft right away!"
+    },
+    "proCons": {
+      "prosHeading": "Pros:",
+      "consHeading": "Cons:",
+      "prosIntro": "With easy syntax and less complexity, C# is the most common language among programmers. And, it does have many more perks other than its simple format.",
+      "consIntro": "Apart from all the great things that C# can accomplish, the programming language does share some limitations too.",
+      "pros": [
+        {
+          "title": "Object-Oriented",
+          "content": "Using the OOPs principles, C# makes it simple to manage objects without needing to worry about their inner attributes. Not just that, by defining data as objects, the programming language breaks the application further into smaller parts. This makes the creation of applications faster as well as easier to manage and combine the modules together."
+        },
+        {
+          "title": "Language Interoperability",
+          "content": "Language interoperability makes C# programming even more convenient. This feature provides C# with the capability to interact with applications written in various different compatible languages. For instance, C++, F#, etc. Hence, developers can work with different languages in one assembly."
+        },
+        {
+          "title": "It is Secure",
+          "content": "C#, being a compiled language, saved the code on a public-facing server in binary format. Therefore, even when hackers get access to your server, they do not get direct access to the source code. Unlike PHP and other languages which hands over the database passwords to the hacker through the source code, C# cannot be accessed that easily. One must decompile the software before being able to find out any related critical component. This makes C# a secure coding language."
+        }
+      ],
+      "cons": [
+        {
+          "title": "Steep Learning Curve",
+          "content": "While it won’t feel that difficult to learn C#, an added need to understand the .Net libraries make the overall process a little more complex. Not to forget, .Net libraries keep on updating too often. Plus, you do require to use multiple runtimes for creating cross-platform applications. This is because neither C# nor .Net have native support for Mac or Linux."
+        },
+        {
+          "title": "Does Not Support Low-Level Programming",
+          "content": "It is not possible to carry out low-level programming. For instance, if you wish to write code for drivers to interact with hardware directly, you might have to look for other options."
+        },
+        {
+          "title": "Code Changes Need Compilation Every Time",
+          "content": "Developers need to compile the code every time a change is made. This includes even the smallest of changes in the code. To be precise, after every edit in the source code, developers must recompile the entire application as well as deploy it on the server. Not only it is time-consuming but can introduce more bugs following the changes aren’t tested properly."
+        }
+      ]
+    }
+  },
+  "technology-express-js": {
+    "type": "technology",
+    "slug": "technology-express-js",
+    "metadata": {
+      "title": "Express Js Development Company | Web Applications Development",
+      "description": "Looking for Express js development Company? We provide custom express js development services with core expertise in building scalable web applications."
+    },
+    "header": {
+      "title": "Express JS Development Services",
+      "breadcrumb": "Express JS",
+      "poster": "express-js-tech-video-thumbnail-new.webp",
+      "video": "express-js-new.mp4"
+    },
+    "about": {
+      "heading": "What is Express Js?",
+      "image": "express-js.webp",
+      "imageAlt": "Conceptual graphic design of a human holding a laptop in hand describing express js technology",
+      "summary": "Express.js is an open-source mobile API application framework built on the open-source model for Node.js. In other words, this framework offers a thin layer between the Node server and the application-specific middleware to add its native features, without impacting the Node.js features we love.",
+      "details": "By doing so, Express.js further simplifies the development process and provides useful features, tools, plugins and more to ease the development task.",
+      "ctaText": "To know where you can utilize this framework for your application development, contact the Harshal IT Soft team."
+    },
+    "proCons": {
+      "prosHeading": "Pros:",
+      "consHeading": "Cons:",
+      "prosIntro": "With many perks, Express.js is a very popular framework among developers. Here are some of its major advantages.",
+      "consIntro": "Express.js has its own set of disadvantages you must know about.",
+      "pros": [],
+      "cons": [
+        {
+          "title": "Difficult for Beginners",
+          "content": "The Express.js framework does not have strict structure rules that one must follow. While this is great for experts while they get the opportunity to explore better options to code, beginners might find it unhelpful. Beginners can find it difficult to understand the optimal way of structuring their server code. And might end up writing code that actually slow down the overall process."
+        },
+        {
+          "title": "Middleware Complexity",
+          "content": "Because of Express.js middleware system, developers often find it difficult to understand the concept and implement it correctly. Hence, one must understand the native concept of the middleware with Express.js to be able to make the most of it."
+        },
+        {
+          "title": "Debugging is Difficult",
+          "content": "The error message of Express.js is often misleading. You are on your own when debugging the code."
+        }
+      ]
+    }
+  },
+  "technology-mongodb": {
+    "type": "technology",
+    "slug": "technology-mongodb",
+    "metadata": {
+      "title": "Mongo DB Application Development | Web Application Development Company",
+      "description": "We are assisting businesses of different sizes to achieve their web application development goals through Mongo DB application development services. Contact now to learn more."
+    },
+    "header": {
+      "title": "MongoDB Development Services",
+      "breadcrumb": "MongoDB",
+      "poster": "mongoDB-tech-video-thumbnail-new.webp",
+      "video": "mongoDB-tech-background-new.mp4"
+    },
+    "about": {
+      "heading": "What is MongoDB?",
+      "image": "mongo-db.webp",
+      "imageAlt": "Conceptual design of a laptop showing mongo DB technology",
+      "summary": "Utilized for storage of high volume data, MongoDB is an open-source, NoSQL document database. Founded in 2007, currently, the database enjoys a huge community of developers and supporters.",
+      "details": "Because of its favourable and flexible features aligning to the business needs, it has become very popular. Businesses can opt for a document-oriented data model or/and an unstructured query language as it offers both. Based on a scale-out architecture, the database enables professionals to create applications with the help of various agile methods. In short, Mongo DB is helping businesses of different sizes to achieve their development goals.",
+      "ctaText": "If your business is in need of such a solution, contact Harshal IT Soft and learn about the opportunities it entails."
+    },
+    "proCons": {
+      "prosHeading": "Pros:",
+      "consHeading": "Cons:",
+      "prosIntro": "Packed with many benefits, Mongo DB offers great perks to the users.",
+      "consIntro": "Keeping aside the advantages, there are certain limitations that Mongo DB exhibits too.",
+      "pros": [
+        {
+          "title": "Higher Flexibility",
+          "content": "To start with, developers do not need to restrict themselves to predefined schemas as Mongo DB does not have one. That said, its dynamic schematic architecture suits the non-structured data and storage. This fits best for businesses that are constantly evolving and hence their data. With a flexible database model such as that offered by Mongo DB, it becomes simpler to adapt to the changes."
+        },
+        {
+          "title": "Easy to Maintain Large Data",
+          "content": "To maintain a large pool of data, MongoDB makes use of Sharding – a process that divides and distributes the data from a bigger database set to multiple servers. This feature is crucial in cases where one server is not able to handle a large database size."
+        },
+        {
+          "title": "Simple Learning Curve",
+          "content": "Known for its simplicity, MongoDB has an easy to learn query syntax which is even simpler than the SQL syntax. The query language is expressive enough and helps developers to work with this database without any hassle."
+        }
+      ],
+      "cons": [
+        {
+          "title": "Dependency on Indexing",
+          "content": "MongoDB is popular for maintaining high-speed performance. However, this majorly depends on the indexing process. If not performed right, incorrect indexing can lead to extreme discrepancies. And, it will also lower the performance of the database exponentially."
+        },
+        {
+          "title": "Data Duplication",
+          "content": "Duplication of data is another reason why professionals find it difficult to work with Mongo DB. With a lack of properly defined relations, it sometimes becomes a challenge in handling data sets."
+        },
+        {
+          "title": "Use High Memory",
+          "content": "MongoDB often ends up demanding a high amount of storage. This is basically a consequence of the lack of joins functionalities. Eventually leading to a higher probability of data duplication. All these problems further add up to data redundancy, ultimately requiring unnecessary memory space."
+        }
+      ]
+    }
+  },
+  "technology-node-js": {
+    "type": "technology",
+    "slug": "technology-node-js",
+    "metadata": {
+      "title": "Node Js Development Services | Web Application Development",
+      "description": "We have experts to provide the best node js development services to our clients. Contact now to get an application developed using this nodejs framework."
+    },
+    "header": {
+      "title": "Node JS Development Services",
+      "breadcrumb": "Node JS",
+      "poster": "node-js-thumbnail-new.webp",
+      "video": "node-js-tech-video-background-new.mp4"
+    },
+    "about": {
+      "heading": "What is Node Js?",
+      "image": "nodejs-image.webp",
+      "imageAlt": "A man working on a laptop describing node JS technology",
+      "summary": "Node.js is a JavaScript runtime environment that is built on the V8 engine of Chrome. Being event-driven and featuring non-blocking I/O benefits, Node.js is lightweight, as well as fast.",
+      "details": "Because of the many perks that Node.js offers, it has been able to impress a lot of industries such as Healthcare, e-commerce, IT and more. The simplicity it offers makes Node.js irresistible. Plus, it’s open-source and offers cross-platform development as well. Unlike unresponsive and slow applications that can negatively impact business operations, Node.js brings its robust, flexible and strong personality to offer wonderful results.",
+      "ctaText": "Our team has the expertise to use Node.js for developing faster and more scalable applications for clients. To know more, please contact us."
+    },
+    "proCons": {
+      "prosHeading": "Pros:",
+      "consHeading": "Cons:",
+      "prosIntro": "Let us find out some of the advantages of Node.js and why it is so preferred choice among developers.",
+      "consIntro": "Apart from the good part, there are a few limitations that Node.js accompany too.",
+      "pros": [],
+      "cons": [
+        {
+          "title": "Heavy Computation Reduces Performance",
+          "content": "Although considered fairly fast, the issue occurs when there is a CPU bound task request. During the heavy request made to the event loop, Node.js allot the entire CPU availability to this process. Only when it’s completed, the CPU becomes free to process other requests. This ends up slowing the application processing. Therefore, Node.js is not suitable for too heavy computation."
+        },
+        {
+          "title": "The problem of Call-back Hell",
+          "content": "Because of the Node.js asynchronous characteristic, the runtime environment depends a lot on call-backs. These are the functions executed when the task finishes in the queue. Therefore, the environment maintains an array of queued tasks in its background. And each containing its call-back. This sometimes results in call-back hell. This makes it difficult to maintain code with Node.js."
+        },
+        {
+          "title": "Frequent Changes in API",
+          "content": "Node.js suffers from frequent API changes. These APIs being backwards-incompatible forces developers to edit the access code in order to sync these code with the latest Node.js API versions."
+        }
+      ]
+    }
+  },
+  "technology-webforms": {
+    "type": "technology",
+    "slug": "technology-webforms",
+    "metadata": {
+      "title": "WebForms Development Services | Hire Application Developers",
+      "description": "We are providing custom web forms development services for the global clientele. Hire our top-rated application developers for your project needs. Call now!"
+    },
+    "header": {
+      "title": "WebForms Development Services",
+      "breadcrumb": "WebForms",
+      "poster": "webforms-tech-background-thumbnail-new.webp",
+      "video": "webforms-tech-background.mp4"
+    },
+    "about": {
+      "heading": "What is WebForms?",
+      "image": "webforms-image.webp",
+      "imageAlt": "A man and some graphical illustrations describing webforms technology",
+      "summary": "WebForms which is usually referred to as an HTML form provides users with an online page to enter data. This information is then shared with a server for further processing. Almost everyone has used WebForms when placing an online order or signing up for a Newsletter.",
+      "details": "Not only do these differ in their formats, but there are many parameters that come into play when designing WebForms. From context to length to the number of fields to whatnot. And, it could sometimes become tricky to build one.",
+      "ctaText": "Thankfully, our experts are always there to help. All you have to do is, call Harshal IT Soft."
+    },
+    "proCons": {
+      "prosHeading": "Pros:",
+      "consHeading": "Cons:",
+      "prosIntro": "WebForms, by automating the programming process to a great extent has become a popular technology among developers. Here are some of the amazing perks that it offers:",
+      "consIntro": "There are some limitations that you must know before choosing WebForms.",
+      "pros": [
+        {
+          "title": "Event-Triggered",
+          "content": "Being Event-driven, WebForms are easy to manipulate according to projects’ needs. The abstract mechanism to keep controls separate from the inner processes, make it simpler for developers to design pages with ease."
+        },
+        {
+          "title": "User-Friendly Controls",
+          "content": "When it comes to programming, one rarely needs heavy coding to use WebForms. Simply with drag and drop Controls programmers can create amazing designs. Not just that, the compatibility with 3rd party solutions is a huge plus. It offers flexibility to extend creativity. Grid control helps generate the related HTML as well as JavaScript."
+        },
+        {
+          "title": "Validations are Simple",
+          "content": "All it requires is setting the correct properties for the controls to process validations. And it is possible to create an array of different use cases through these validations."
+        }
+      ],
+      "cons": [
+        {
+          "title": "Difficult to Test Modules Separately",
+          "content": "With multiple event handlers performing in the back end, unit testing becomes a tedious task for WebForms."
+        },
+        {
+          "title": "No Fixed Architecture",
+          "content": "With a lack of pre-defined architecture for web applications, WebForms could become a little difficult to develop for programmers. Ending up in longer completion times."
+        },
+        {
+          "title": "Less Control Over Produced HTML",
+          "content": "With drag & drop controls, WebForms enable rapid application development. Which is actually simpler than writing HTML tags. However, this results in little control over the HTML code produced for each page."
+        }
+      ]
+    }
+  },
+  "technology-winforms": {
+    "type": "technology",
+    "slug": "technology-winforms",
+    "metadata": {
+      "title": "Windows Forms Development Company | Winforms Development",
+      "description": "Are you looking to create customized WinForms software applications for your company? We are ready to provide Windows Forms Development services according to your needs."
+    },
+    "header": {
+      "title": "WinForms Development Services",
+      "breadcrumb": "WinForms",
+      "poster": "winforms-tech-thumbnail-new.webp",
+      "video": "winforms-tech-background-new.mp4"
+    },
+    "about": {
+      "heading": "What is WinForms?",
+      "image": "winforms-image.webp",
+      "imageAlt": "A graphical illustration of a lady working on laptop describing winforms technology",
+      "summary": "WinForms (Windows Forms) is a UI framework developed for creating rich desktop-based window client apps. Supporting an array of advanced and amazing features such as graphics, controls, data binding, and more, the framework is one of the user-friendly choices out there.",
+      "details": "The framework hosts a drag-and-drop control in Visual Studio that helps create Windows Forms apps without any hassle. The solution is great for constructing data-entry systems, graphics applications etc.",
+      "ctaText": "Harshal IT Soft offers amazing solutions using WinForms to its clients from different domains. If you have any such need, do not forget to contact us now!"
+    },
+    "proCons": {
+      "prosHeading": "Pros:",
+      "consHeading": "Cons:",
+      "prosIntro": "WinForms have many advantages that make this framework a powerful option for developers.",
+      "consIntro": "Here are some of the cons that WinForms carry.",
+      "pros": [
+        {
+          "title": "Supports Third Party Controls",
+          "content": "When developing desktop apps, gaining access to third-party controls could enhance flexibility to complete your project tasks conveniently. And, WinForms provides that privilege to its users. Plus, it already has an extensive toolset from its native windows library of common controls. Overall, the framework helps optimize the desktop apps for best utilization."
+        },
+        {
+          "title": "Simple and Precise",
+          "content": "Considered one of the simplest desktop development solutions for Windows, WinForms has an easy learning curve. It takes less time to understand the framework and start programming with it. A hassle-free drag and drop design allows developers to get acquainted with the overall platform quickly."
+        },
+        {
+          "title": "Huge Documentation and Large Community",
+          "content": "One can find an extensive library of documentation online pertaining to WinForms. The framework has a considerable number of fans building a strong community on the web. Therefore, it is easier to find answers in time of need by just looking online. This provides users with a lot of flexibility to complete development without any roadblocks."
+        }
+      ],
+      "cons": [
+        {
+          "title": "Extra Cost for Third-Party Controls",
+          "content": "Definitely being able to access third party controls is an impressive option. However, you must also know that these controls aren’t free. You must pay extra costs to use these additional controls. This adds up to the project cost and might end up turning the development expensive."
+        },
+        {
+          "title": "Requires Extra Effort for App’s Desired Look and Feel",
+          "content": "With limited controls to take care of the design part on WinForms, you might need to work a little more to achieve the desired look and feel for your app designs. This can be complicated as well as can consume a lot of time. Not to forget, the customization of controls is excessively difficult too."
+        },
+        {
+          "title": "Difficult to Draw Line Between UI and Back End Logic",
+          "content": "Differentiating UI from the backend complexities have many perks. And the most pronounced one is the ability of parallel development. This allows developers to work semi-independently covering disparate aspects within the same project. So, while the QML developers get the UI ready, the C++ developers can develop the backend, hand in hand. While this is possible with WinForms, it is difficult to attain it."
+        }
+      ]
+    }
+  },
+  "technology-winui": {
+    "type": "technology",
+    "slug": "technology-winui",
+    "metadata": {
+      "title": "WinUI Application Development Services | Software Development Company",
+      "description": "Harshal IT Soft is the leading software development company providing services like winui application development, mobile apps, etc. Talk to us now!"
+    },
+    "header": {
+      "title": "WinUI Development Services",
+      "breadcrumb": "WinUI",
+      "poster": "winui-video-thumbnail.webp",
+      "video": "winui-tech-background-new.mp4"
+    },
+    "about": {
+      "heading": "What is WinUI?",
+      "image": "winui-image.webp",
+      "imageAlt": "A man working on laptop to explain winui technology with some graphical illustrations",
+      "summary": "Offering a simple framework to build windows apps, WinUI features a huge array of advanced controls and templates. The framework makes it simpler for programmers to construct seamless UIs with natural and modern looks.",
+      "details": "WinUI makes it possible to create intuitive, and powerful experiences for users while leveraging the latest user interface patterns. This UI framework supports almost all the Windows programs across both Win32 as well as UWP. In addition, with cross-platform compatibility, you can migrate existing apps created using C++ and Microsoft Foundation Class Library (MFC).",
+      "ctaText": "The great news is, Harshal IT Soft have a specialized team working with the technology for a long time now. And, we can help you provide a seamless experience with WinUI development. You just have to give us a call!"
+    },
+    "proCons": {
+      "prosHeading": "Pros:",
+      "consHeading": "Cons:",
+      "prosIntro": "WinUI is a popular UI framework offering tons of benefits to its users.",
+      "consIntro": "How to decide when not to choose WinUI for your development needs? Look at some of the limitations that it entails.",
+      "pros": [],
+      "cons": [
+        {
+          "title": "No Support for Windows 7",
+          "content": "The apps built using WinUI cannot be deployed directly on Windows 7 operating system. In order to do that, one will require the UNO platform. This limits the reach of this framework a little."
+        },
+        {
+          "title": "Only Available for Windows",
+          "content": "The UI framework is especially for Windows with no compatibility with other operating systems. Again, if you want to use the framework for operating systems where WinUI does not natively belong, you would need the UNO platform."
+        },
+        {
+          "title": "A lot of Restrictions",
+          "content": "When using WinUI UWP, you must face a few restrictions. Such as, one cannot start the process of services as well as inter-process communication. In addition, the framework uses app capabilities for defining resource access. This makes the app visibility obvious to the users such as location."
+        }
+      ]
+    }
+  },
+  "technology-wpf": {
+    "type": "technology",
+    "slug": "technology-wpf",
+    "metadata": {
+      "title": "WPF Application Development Services | Web App Developers",
+      "description": "Harshal IT Soft is a WPF development company providing bespoke WPF application development services. Explore your requirements with our web app developers."
+    },
+    "header": {
+      "title": "WPF Development Services",
+      "breadcrumb": "WPF",
+      "poster": "",
+      "video": "WPF-tech-video-background-new.mp4"
+    },
+    "about": {
+      "heading": "What is WPF?",
+      "image": "wpf-image.webp",
+      "imageAlt": "A lady explaining WPF concept on a display screen",
+      "summary": "WPF is a development framework consisting of a set of predefined controls to help build appealing client applications. Whether you are looking to create browser-hosted applications or standalone ones, this solution could help do that seamlessly.",
+      "details": "Simply put, offering developers assorted objects and tools, WPF eases the task of constructing cooler interfaces.",
+      "ctaText": "To help you gain access to the great solution using WPF, our team uses the latest know-how and best development practices. So, contact Harshal IT Soft and find out what you can uncover using WPF."
+    },
+    "proCons": {
+      "prosHeading": "Pros:",
+      "consHeading": "Cons:",
+      "prosIntro": "As discussed, the framework allows for the faster building of various kinds of client-side applications. Thankfully, there are many other perks worth noting.",
+      "consIntro": "There are a few disadvantages too. Here is what you must know:",
+      "pros": [
+        {
+          "title": "Build with More Graphics",
+          "content": "WPF design features layered DirectX. This helps in providing enhanced access to the latest hardware pertaining to graphics. In short, it’s much better than typical GDI and GDI+ graphics. Hence, the transformation of objects becomes simpler with WPF. It is hassle-free to create 3D graphics and include multimedia files in the design."
+        },
+        {
+          "title": "Runs in Various Types of Environment",
+          "content": "WPF is versatile and can run on the desktop as well as in a web browser. That said, these applications based on WPF can run locally while using the browser to benefit from the use of necessary navigation tools. Another way to use a WPF program is to run it as a frame application. Make sure to run this inside a Frame control. This will act as a typical browser."
+        },
+        {
+          "title": "Variety of Controls",
+          "content": "Packed with various controls to perform different actions or serve different design purposes, WPF applications are easy to customize as per likes."
+        }
+      ],
+      "cons": [
+        {
+          "title": "Difficult to Learn for Beginners",
+          "content": "Although not completely different from .NET programming, the framework brings its own set of challenges for beginners. It could take some time to understand the overall working of WPF to be able to make the most of it."
+        },
+        {
+          "title": "Requires Extra Video Cards",
+          "content": "If you are working with advanced graphics, you will need a D*9 compatible video card additionally. That would add up to your expense."
+        },
+        {
+          "title": "Designing Applications Takes Longer Time",
+          "content": "Being a little complex, the application design may take a longer time than expected to create UIs as per expectations. For instance, if you want to change a control’s look, you might have to work through the control template to make that happen. Sometimes it takes hours to achieve the looks of the page one wants to create."
+        }
+      ]
+    }
+  },
+  "technology-sharepoint": {
+    "type": "technology",
+    "slug": "technology-sharepoint",
+    "metadata": {
+      "title": "Sharepoint Application Development Company | Web & App Development",
+      "description": "We offer end-to-end custom SharePoint development services to help you run your business more efficiently. Contact us for your web & app development needs."
+    },
+    "header": {
+      "title": "SharePoint Development Services",
+      "breadcrumb": "SharePoint",
+      "poster": "sharepoint-thumbnail-new.webp",
+      "video": "sharepoint-tech-video-background-new.mp4"
+    },
+    "about": {
+      "heading": "What is SharePoint?",
+      "image": "sharepoint-image.webp",
+      "imageAlt": "A girl working on a laptop, Some graphical illustrations showing SharePoint technology",
+      "summary": "SharePoint is one of the most popular Cloud-based content management platforms by Microsoft. Used for collaborating on projects, it help teams work together while working remotely in a smarter environment.",
+      "details": "Microsoft SharePoint provides seamless development by managing the data and resources in one customizable place. Companies can benefit from its flexible features. For instance, it can be integrated with other applications such as content management, business intelligence and so on. Packed with ultimate tools and functionalities, it helps build applications in a simple manner.",
+      "ctaText": "We at Harshal IT Soft know how to convert this technology into valuable applications for your specific business goals. Contact us today to know more!"
+    },
+    "proCons": {
+      "prosHeading": "Pros:",
+      "consHeading": "Cons:",
+      "prosIntro": "Staying at the top choices of many corporates, there are several reasons to choose SharePoint over its competition.",
+      "consIntro": "Let’s check the few limitations that SharePoint entails.",
+      "pros": [
+        {
+          "title": "High Data Security",
+          "content": "SharePoint is protected using Microsoft’s best-in-class encryption technology. Therefore, it is one of the safest solutions for team collaboration when working on a project."
+        },
+        {
+          "title": "Customizable",
+          "content": "SharePoint is customizable. This means you can tailor the solution to fit your requirements. It allows adding branding themes, colors, graphics and more. In other words, it is possible to create a variety of things on top of this platform. While there are sufficient functionalities in its basic form, custom development makes the platform even more robust and aligned to specific needs."
+        },
+        {
+          "title": "Enable Collaboration",
+          "content": "Storing important files in a single central location, SharePoint enables collaboration among teams. Hence, it becomes simpler to manage work and responsibilities among teams even when working from different locations."
+        }
+      ],
+      "cons": [
+        {
+          "title": "Difficult Setup and Complicated Maintenance",
+          "content": "For basic tasks, SharePoint might seem simple to set up and use. However, to get the most from the platform, you must seek help from someone expert. For instance, a SharePoint development professional. Well, the complexity extends when you customize your SharePoint instance. So, you will need an expert to maintain as well as keep it updated."
+        },
+        {
+          "title": "License is Expensive",
+          "content": "Like most of the Microsoft solutions, this one is also expensive. Its licensing structure is quite complex and adds up the extra cost to the overall development needs."
+        },
+        {
+          "title": "Steep Learning Curve",
+          "content": "It takes time for even the tech-savvy individuals to get acquainted with SharePoint. And no one can know everything about this platform. Hence, if you are new to SharePoint, you will require time and effort to learn about this management platform. Some might even take longer than expected to be able to use SharePoint."
+        }
+      ]
+    }
+  },
+  "technology-xamarin": {
+    "type": "technology",
+    "slug": "technology-xamarin",
+    "metadata": {
+      "title": "Xamarin App Development Services | Mobile Application Development",
+      "description": "We are the leading Xamarin app development services company having a team of experienced developers, Able to build modern android and iOS apps using Xamarin technology."
+    },
+    "header": {
+      "title": "Xamarin Development Services",
+      "breadcrumb": "Xamarin",
+      "poster": "xamarin-video-thumbnail.webp",
+      "video": "xamarin-tech.mp4"
+    },
+    "about": {
+      "heading": "What is Xamarin?",
+      "image": "xamarin-image.webp",
+      "imageAlt": "A women explaining Xamarin technology",
+      "summary": "Based on the .NET developer platform, Xamarin features a vast array of tools and libraries to create a variety of applications. Designed specifically for building programs for Android, iOS, watchOS, tvOS, macOS, as well as Windows, the solution is very popular for its many perks.",
+      "details": "Businesses with the help of Xamarin create native mobile applications serving different domains and use cases. What’s interesting is that this framework is an open-source platform which makes it less expensive and readily accessible.",
+      "ctaText": "For more details on how Xamarin can suit your development goals, contact Harshal IT Soft to walk you through its features."
+    },
+    "proCons": {
+      "prosHeading": "Pros:",
+      "consHeading": "Cons:",
+      "prosIntro": "Among the many great things that Xamarin can accomplish, here are some of the most pronounced perks of the framework.",
+      "consIntro": "There are some notable limitations you must not ignore when choosing Xamarin.",
+      "pros": [],
+      "cons": [
+        {
+          "title": "Expensive",
+          "content": "Although Xamarin is an open-source platform, working with it could become expensive at the end of the day. This is because the framework requires access to the Microsoft Visual Studio integrated development environment. And, the licensing for this IDE isn’t cheap."
+        },
+        {
+          "title": "Not Best Choice for Game Development",
+          "content": "Xamarin isn’t what attracts developers for game programming. Featuring the interactive UI elements, Games programming does not cut when it comes to code sharing. The work is still in progress to bring cross-platform adaptability for games on Xamarin."
+        },
+        {
+          "title": "Limited Code Usability",
+          "content": "Programs in Xamarin is only supported within the.NET development stack. So, if you want to reuse the same code for developing a native app or HTML5 application, it won’t be possible. This will limit the longevity as well as usability of the codes written in Xamarin."
+        }
+      ]
+    }
+  },
+  "technology-dotnet": {
+    "type": "technology",
+    "slug": "technology-dotnet",
+    "metadata": {
+      "title": "Dot Net Development Services | Hire Best Dot Net Developers In USA",
+      "description": "We excel in delivering the best-suited business solution as per the customer needs as one of the leading dot net development services companies. Hire the best developers!"
+    },
+    "header": {
+      "title": ".Net Development Services",
+      "breadcrumb": ".Net",
+      "poster": "dot-net-thumbnail-new.webp",
+      "video": "dot-net-tech-video-background-new.mp4"
+    },
+    "about": {
+      "heading": "What is .NET?",
+      "image": "dot-net-image.webp",
+      "imageAlt": "A man sitting on a chair and working on a laptop showing dot net technology",
+      "summary": ".NET Framework or simply .Net is a software framework designed by Microsoft to offer a highly secure and simplified solution for web and desktop app development. This development ecosystem has evolved over time to become better and more robust.",
+      "details": "That said, it currently supports multiple use cases and programming environments for almost all software development phases.",
+      "ctaText": "However, there are certain limitations that might deter you from choosing this framework. To know how the technology can help build applications for your need, reach out to Harshal IT Soft."
+    },
+    "proCons": {
+      "prosHeading": "Pros:",
+      "consHeading": "Cons:",
+      "prosIntro": "As mentioned, it is easy to get astonished with all the perks that .Net offers. And, among the many benefits, some are highly pronounced.",
+      "consIntro": "Here are some of the limitations that .Net comes along with.",
+      "pros": [
+        {
+          "title": "Object-Oriented Programming (OOP)",
+          "content": "Designed keeping the object-oriented programming model in mind, .Net breaks down the development projects into manageable and smaller chunks. With its modular structure, developers get the ease of defining objects’ interactions and dependencies without worrying about the inner attributes. In turn, it becomes simpler to test codes, manage and combine. Thus, saving overall cost for development."
+        },
+        {
+          "title": "High Deployment Flexibility",
+          "content": "Deployment becomes simpler with the .Net framework. The platform contains required dependencies making the deployment as easy as folder copying. In addition, developers can run multiple .NET Core versions on one device simultaneously. This means it is possible to tackle various projects at once without disturbing the deployment tasks."
+        },
+        {
+          "title": "Cross-Platform Compatible",
+          "content": "Code written using the .NET platform can run seamlessly on Windows, macOS, as well as Linux operating systems. Unlike the original .NET framework that lacked cross-platform compatibility, the .NET Core flaunts open-source code. This allows for the sharing and expansion of development use cases among different environments."
+        }
+      ],
+      "cons": [
+        {
+          "title": "Restricted Support for Object-Relational Database (ORD)",
+          "content": "NET ORD is based on its Entity Framework. However, with the limited flexibility of this framework, it may fail to support the emerging database designs."
+        },
+        {
+          "title": "Slow Execution",
+          "content": "Running managed codes on .Net is slower compared to the native codes."
+        },
+        {
+          "title": "Microsoft Dependent",
+          "content": "The .NET framework is a Microsoft product. Therefore, if there are any changes made by the company within the framework, it will also affect the projects developed under the framework."
+        }
+      ]
+    }
+  }
+}

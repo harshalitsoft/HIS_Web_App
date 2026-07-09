@@ -1,0 +1,153 @@
+{
+  "domain-Engineering": {
+    "type": "domain",
+    "slug": "domain-Engineering",
+    "metadata": {
+      "title": "Software Product Engineering Services | Harshal IT Soft",
+      "description": "Our software engineering product services provide first-hand access to cutting-edge technology that allows you to create easy, seamless software solutions at their best."
+    },
+    "header": {
+      "title": "Construction",
+      "tagline": "Top technology solutions for your construction company.",
+      "titleClass": "domains-title",
+      "image": "engineering-image.webp",
+      "imageAlt": "Illustration of some engineers working to describe engineering domain",
+      "imageClass": "engineering-main-image",
+      "intro": "Our team specializes in providing optimized IT solutions to our clients. Understanding the extensive operation involved in the engineering industry, we find ways to ease the internal process through innovation. Depending on the needs, we can create applications, UIs and more to solve the persistent problems. Whether it’s a collaboration between departments, allotment of tasks and more, we use creative thinking to automate processes within engineering industries. Having helped many manufacturing companies in the past, we bring years of expertise to find loopholes and suggest optimized development processes to meet specific goals. Connect with us to learn about our solutions and how can we help.",
+      "hasIntroSection": true
+    },
+    "offeringsHeading": "Our Expertise and Services",
+    "offerings": [
+      {
+        "title": "ERP Integration",
+        "image": "ERP-integration.webp",
+        "imageAlt": "3 persons interacting with each other and describing ERP integration",
+        "summary": "Our custom applications are easy to integrate without any hassle. Whether it’s your procurement data, financials, accounting operations, using our solution, you can automate the business process right away.",
+        "details": "Our ERP offers manufacturing-specific features to streamline as well as automate businesses’ core processes. We design modern and latest ERPs, built on databases that are common to overall business operation. Therefore, our ERP solutions deliver a comprehensive business management platform.",
+        "reversed": false
+      },
+      {
+        "title": "CRM Development",
+        "image": "crm-development.webp",
+        "imageAlt": "2 persons and a display screen explaining CRM development",
+        "summary": "Providing an AI-powered CRM solution, we aim to reduce the long chain of juggling between distributors and retailers to complete the complex sales cycles. Rather, you get the automated analysis and data related to purchase, behaviour and other consumer traits.",
+        "details": "This way, you can better understand the current market and foresee prevailing demands and manufacture products that are more popular and trending. In short, you can make smart decisions when using our highly efficient CRM solutions.",
+        "reversed": true
+      },
+      {
+        "title": "Inventory Management",
+        "image": "inventory-management.webp",
+        "imageAlt": "A girl and a boy managing inventory",
+        "summary": "We understand that managing inventory is one of the most challenging tasks for the engineering industry. Therefore, our solution takes utmost care for making this process as simple as possible.",
+        "details": "Whether you want to keep track of the raw materials, goods in processing or finished ones, our solution gives you instant results. Easy to manage and maintain, we create applications that suit your particular business needs.",
+        "reversed": false
+      }
+    ]
+  },
+  "Healthcare": {
+    "type": "domain",
+    "slug": "Healthcare",
+    "metadata": {
+      "title": "Healthcare Software Development Services | mHealth App Development",
+      "description": "Our Healthcare Software Development Services include the design and development of healthcare software for improving the quality of patient care and efficiency."
+    },
+    "header": {
+      "title": "Healthcare",
+      "tagline": "Best technology solutions for your healthcare organization",
+      "titleClass": "",
+      "image": "",
+      "imageAlt": "",
+      "imageClass": "mb-3",
+      "intro": "",
+      "hasIntroSection": false
+    },
+    "offeringsHeading": "Our Expertise and Services",
+    "offerings": [
+      {
+        "title": "Custom Healthcare Software Development",
+        "image": "Custom_healthcare_software_development.webp",
+        "imageAlt": "Three doctors describing healthcare software development concept",
+        "summary": "We create software applications, platforms, and systems that are tailored specifically to the needs and requirements of your healthcare organization. Unlike off-the-shelf software products, custom healthcare software is designed to meet the unique needs of your healthcare organization and can be fully customized to your specifications.",
+        "details": "Custom healthcare software development involves a wide range of software products, including electronic health records (EHRs), telemedicine platforms, medical imaging software, health information exchanges, patient portals, clinical decision support systems, and more. These products can be designed to address specific challenges or pain points in your healthcare industry, such as improving patient outcomes, reducing administrative burdens, enhancing data security, and more. The process of custom healthcare software development typically involves understanding the unique needs and requirements of your healthcare organization, designing software solutions that address those needs, building and testing the software, and deploying it to users. This process often involves close collaboration between healthcare experts, software developers, and other stakeholders to ensure that the software meets the highest standards of quality, security, and usability.",
+        "reversed": false
+      },
+      {
+        "title": "Custom EHR Applications",
+        "image": "Custom_EHR_Applications.webp",
+        "imageAlt": "A Clock, Calendar, stethoscope, Heart Icon and a mobile app showing electronic health record",
+        "summary": "We offer custom EHR (Electronic Health Record) application development services to manage the electronic health records of patients. EHR applications are designed to store, retrieve, and share patients' clinical and administrative data across different healthcare settings and providers.",
+        "details": "EHR applications provide a comprehensive view of the patient's health history, including data from different sources such as labs, imaging, and pharmacies. EHRs also support patient engagement and enable patients to access their health records, communicate with their providers, and manage their health remotely. Custom EHR applications are designed to meet the specific needs of your healthcare organization or medical practice, including workflows, data collection, and reporting requirements. These applications can be tailored to integrate with different systems and software applications, such as billing and scheduling systems, to streamline administrative processes and improve operational efficiency. Custom EHR applications offer several benefits, including improved patient care, increased efficiency, and better data security and privacy. By providing a comprehensive view of a patient's health history, EHR applications can help healthcare providers make more informed decisions and provide better care. Additionally, custom EHR applications can help healthcare organizations meet regulatory compliance requirements, such as HIPAA, by ensuring data security and privacy.",
+        "reversed": true
+      },
+      {
+        "title": "Medical Billing Software",
+        "image": "Medical_billing_software.webp",
+        "imageAlt": "A women explaining billing software used in a medical",
+        "summary": "Our medical billing software development services are used by healthcare providers and medical billing companies to manage and process medical claims and billing information.",
+        "details": "Medical billing software automates the billing process, helping healthcare providers and billing companies to create, submit, and track medical claims electronically. The software also helps in managing patient insurance and billing data, including patient demographics, insurance coverage, treatment details, and payment history These software solutions can be customized to meet the specific needs of healthcare providers and medical billing companies, and can be integrated with other systems and technologies, such as Electronic Health Records (EHRs), to provide a comprehensive view of patient data.",
+        "reversed": false
+      },
+      {
+        "title": "Healthcare Claims Management Software",
+        "image": "Healthcare_claims_management_software.webp",
+        "imageAlt": "Two persons understanding the healthcare claims management software in detail",
+        "summary": "Healthcare providers and medical billing companies use our healthcare claims management software development services to create, submit, and track medical claims electronically.",
+        "details": "Claims management software automates the claims processing workflow, helping healthcare providers and billing companies to manage and process medical claims and billing information. The software also helps in managing patient insurance and billing data, including patient demographics, insurance coverage, treatment details, and payment history. These software solutions can be customized to meet the specific needs of healthcare providers and medical billing companies, and can be integrated with other systems and technologies, such as Electronic Health Records (EHRs), to provide a comprehensive view of patient data.",
+        "reversed": true
+      },
+      {
+        "title": "Patient Portals",
+        "image": "Patient_Portals.webp",
+        "imageAlt": "Two persons interacting with each other in an online patient portal",
+        "summary": "We offer custom secure online websites and applications that allow patients to access their health information, communicate with their healthcare providers, and perform various tasks related to their healthcare.",
+        "details": "Patient portals provide patients with a convenient and secure way to access their medical records, lab results, and other health information. They also allow patients to communicate with their healthcare providers, schedule appointments, refill prescriptions, and pay bills online. Some patient portals also provide educational resources, such as health articles and videos, to help patients manage their health. Patient portals can be customized to meet the specific needs of healthcare organizations and can be integrated with other systems and technologies, such as Electronic Health Records (EHRs), to provide a comprehensive view of patient data.",
+        "reversed": false
+      }
+    ]
+  },
+  "domain-learning-management-system": {
+    "type": "domain",
+    "slug": "domain-learning-management-system",
+    "metadata": {
+      "title": "LMS Software Development Company | Custom LMS Development",
+      "description": "Looking for a top learning management system development company? Harshal IT Soft is a reputable elearning service provider that offers simple yet adaptive e-learning solutions."
+    },
+    "header": {
+      "title": "Learning Management System",
+      "tagline": "Advanced technology solutions for your learning management system.",
+      "titleClass": "lms-title",
+      "image": "lms-main-image.webp",
+      "imageAlt": "A laptop showing web sample application",
+      "imageClass": "lms-main-image",
+      "intro": "Online learning is gaining traction, calling for a more reliable platform to deliver an efficient learning experience. And we create solutions that flaunt best in class features, packed together to create offer comprehensive results. Harshal IT Soft focuses on making the learning experience more personalized and engaging. Our application development starts from gathering details about your needs to supporting you when you go live. We recognise and take care of the possible shortcomings these systems are used to encounter to make sure you never have to come across those issues later. With a very talented pool of professionals, we provide end to end solutions that speak for its perfection. To find out more, do not hesitate to contact us at your preferred time. We are here to help!",
+      "hasIntroSection": true
+    },
+    "offeringsHeading": "Our Expertise and Services",
+    "offerings": [
+      {
+        "title": "Fast Insight and Progress Tracking",
+        "image": "progress-tracking-lms.webp",
+        "imageAlt": "Three doctors describing healthcare software development concept",
+        "summary": "Manage your students’ scores, course progress, and other insights with the click of a button. Track all the details of every user without getting any heavy lifting. A complete mobile-friendly solution that can help users access their details anytime.",
+        "details": "A neat dashboard showing just the important information to keep the noise away. Get to know about upcoming tests, certifications and more by just logging into our learning management solutions.",
+        "reversed": false
+      },
+      {
+        "title": "Build Course Library",
+        "image": "course-library-lms.webp",
+        "imageAlt": "A Clock, Calendar, stethoscope, Heart Icon and a mobile app showing electronic health record",
+        "summary": "Users get to create their own course lists and manage their time accordingly. The application specifies all the important dates and details of the live sessions if any as well as completed chapters.",
+        "details": "It is easy to toggle between different courses and access materials instantly. In short, learning made easy, even for those not much acquainted with computers and basic internet browsing.",
+        "reversed": true
+      },
+      {
+        "title": "Custom Branding and Diverse Learning Support",
+        "image": "diverse-learning-support.webp",
+        "imageAlt": "A women explaining billing software used in a medical",
+        "summary": "We help you make our solutions yours. Harshal IT Soft values the personal branding of its clients. Our platform is completely customizable. So, you can add features or decide to include them later, whatever you choose will work for us.",
+        "details": "Our applications offer remote access for conducting classes seamlessly using a variety of options. Whether you use the whiteboard or share your screen or even carry video conferencing, the platform eases the overall learning process exponentially.",
+        "reversed": false
+      }
+    ]
+  }
+}
